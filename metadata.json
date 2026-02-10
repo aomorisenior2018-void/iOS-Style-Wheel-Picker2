@@ -1,0 +1,5 @@
+{
+  "name": "iOS-Style-Wheel-Picker2",
+  "description": "A smooth, physics-based scrollable wheel picker for dates, replicating the native iOS date picker interaction.",
+  "requestFramePermissions": []
+}
